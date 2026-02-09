@@ -8,9 +8,11 @@
 
 ### Projects
 
-- **[infi markets](https://github.com/aryanbaranwal001/aptos_distribution_markets)** – a gaussian distribution based prediction market on principles of [research paper](https://www.paradigm.xyz/2024/12/distribution-markets)
-- **[redis](https://github.com/aryanbaranwal001/codecrafters-redis-rust)** - implemented redis from scratch in rust completing codecrafters redis challenge
-- **[inheritchain](https://github.com/AnInsaneJimJam/Chainlink-Chromion)** - a crosschain protocol to distribute onchain assets among beneficiaries once client is deceased
+- **[Titan](https://github.com/aryanbaranwal001/Titan)** – a high throughput blockchain indexer written in rust
+
+- **[Infi Markets](https://github.com/aryanbaranwal001/aptos_distribution_markets)** – a gaussian distribution based prediction market on principles of [research paper](https://www.paradigm.xyz/2024/12/distribution-markets)
+- **[Redis](https://github.com/aryanbaranwal001/codecrafters-redis-rust)** - implemented redis from scratch in rust completing codecrafters redis challenge
+- **[Inheritchain](https://github.com/AnInsaneJimJam/Chainlink-Chromion)** - a crosschain protocol to distribute onchain assets among beneficiaries once client is deceased
 
 ### Achievements
 
