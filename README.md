@@ -12,10 +12,11 @@
 - **[Redis](https://github.com/aryanbaranwal001/redis-rust)** – Redis implemented from scratch in Rust (Codecrafters challenge)
 - **[FluxDB](https://github.com/BlocSoc-iitr/FluxDB)** – contributing to an open-source database project written in Rust
 - **[EVM from Scratch](https://github.com/aryanbaranwal001/evm_from_scratch)** – EVM bytecode interpreter in Rust from scratch
-- **[AMM](https://github.com/aryanbaranwal001/foundry-amm)** – AMM implementation in Solidity using Foundry based on the x·y = k constant product formula
 - **[Infi Markets](https://github.com/aryanbaranwal001/aptos_distribution_markets)** – On-chain Gaussian distribution-based prediction market in Move on Aptos, based on the Paradigm [research paper](https://www.paradigm.xyz/2024/12/distribution-markets)
 - **[Inheritchain](https://github.com/AnInsaneJimJam/Chainlink-Chromion)** – cross-chain protocol to distribute on-chain assets to beneficiaries using Chainlink CCIP
 - **[Crust of Rust](https://github.com/aryanbaranwal001/crust-of-rust)** – notes and code snippets from Jon Gjengset's deep-dive Rust lecture series
+- **[AMM](https://github.com/aryanbaranwal001/foundry-amm)** – AMM implementation in Solidity using Foundry based on the x·y = k constant product formula
+- **[Lending & Borrowing Protocol](https://github.com/aryanbaranwal001/lending-borrowing-protocol)** – lending and borrowing protocol in Solidity using Foundry
 
 ### Courses
 
