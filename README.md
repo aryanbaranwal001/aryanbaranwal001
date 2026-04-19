@@ -25,4 +25,4 @@
 
 ### Achievements
 
-- **Aptos CTRL + Move** hackathon — 5th place (main track) — [Infi Markets](https://github.com/aryanbaranwal001/aptos_distribution_markets)
+- **Aptos CTRL + Move** hackathon — 5th place, $2,500 prize (main track) — [Infi Markets](https://github.com/aryanbaranwal001/aptos_distribution_markets)
