@@ -8,6 +8,7 @@
 
 ### Projects
 
+- **[jlox](https://github.com/aryanbaranwal001/jlox)** – tree-walking interpreter for the Lox language in Java, from Crafting Interpreters
 - **[Titan](https://github.com/aryanbaranwal001/Titan)** – high-throughput blockchain indexer written in Rust
 - **[Redis](https://github.com/aryanbaranwal001/redis-rust)** – Redis implemented from scratch in Rust (Codecrafters challenge)
 - **[FluxDB](https://github.com/BlocSoc-iitr/FluxDB)** – contributing to an open-source database project written in Rust
@@ -21,12 +22,7 @@
 
 ### Open Source
 
-- **[Hyperledger Solang](https://github.com/hyperledger/solang)** – Solidity compiler targeting Solana, Polkadot, and Stellar (Rust)
-  - [PR #1890](https://github.com/hyperledger/solang/pull/1890) — Reject target-gated builtins called on the wrong target in the method resolver
-  - [PR #1887](https://github.com/hyperledger/solang/pull/1887) — Add missing boolean type check for ternary conditions in return statement handlers
-  - [PR #1889](https://github.com/hyperledger/solang/pull/1889) — Guard against void-typed arguments in `abi.encode*` before codegen
-  - [PR #1891](https://github.com/hyperledger/solang/pull/1891) — Reject internal function references in `abi.encode*` across all targets
-  - [PR #1892](https://github.com/hyperledger/solang/pull/1892) — Reject rational expressions without concrete types in `abi.encode*`
+- **[Hyperledger Solang](https://github.com/hyperledger-solang/solang/pulls?q=is%3Apr+author%3Aaryanbaranwal001)** – Solidity compiler in Rust – added bytes support and crypto builtins to the Soroban section, plus type checks in the semantic analyzer
 
 ### Achievements
 
