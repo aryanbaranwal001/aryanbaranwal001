@@ -4,7 +4,7 @@
 
 - Undergrad at IIT Roorkee
 - Interested in  **Databases**, **Blockchain Execution Models**, **Compilers** and **Distributed Systems**
-- Contact me: **<erenyeager108013@gmail.com>**
+- Contact me: **<mahoraga5312@gmail.com>**
 
 ### Projects
 
